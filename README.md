@@ -5,7 +5,7 @@
 <img src="./img/phomein_visual.png" width="600px" height="auto" alt="포메인 클론코딩">
 
 ## 💻 Clone Coding 
-** 쌀국수 브랜드 포메인의 클론코딩 웹사이트입니다. ** GD WEB(지디웹) 선정작이며 Fullpage.js 라이브러리를 사용하였습니다. <br> 
+**쌀국수 브랜드 포메인의 클론코딩 웹사이트입니다.** GD WEB(지디웹) 선정작이며 Fullpage.js 라이브러리를 사용하였습니다. <br> 
 
 <br>
 
